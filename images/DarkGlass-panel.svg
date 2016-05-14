@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="100"
+   height="24"
+   id="svg2825">
+  <metadata
+     id="metadata3215">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2827">
+    <linearGradient
+       id="linearGradient11213">
+      <stop
+         id="stop11215"
+         style="stop-color:#050505;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop11217"
+         style="stop-color:#ffffff;stop-opacity:0.12217195"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="50"
+       y1="22.419846"
+       x2="50"
+       y2="24"
+       id="linearGradient11192"
+       xlink:href="#linearGradient11213"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     transform="translate(150,-583.36218)"
+     id="layer2" />
+  <g
+     transform="matrix(0.11369222,0,0,0.27993398,4.877207,-186.19619)"
+     id="layer2-1" />
+  <rect
+     width="100"
+     height="24"
+     ry="0"
+     x="0"
+     y="0"
+     id="rect11184"
+     style="opacity:0.7;fill:url(#linearGradient11192);fill-opacity:1;stroke:none" />
+</svg>

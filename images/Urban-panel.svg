@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="100"
+   height="24"
+   id="svg2825">
+  <metadata
+     id="metadata3215">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2827">
+    <linearGradient
+       id="linearGradient3890">
+      <stop
+         id="stop3892"
+         style="stop-color:#c4c4c4;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3894"
+         style="stop-color:#d1d1d1;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="45"
+       y1="17.155947"
+       x2="45"
+       y2="-1"
+       id="linearGradient3896"
+       xlink:href="#linearGradient3890"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1,0.98720761)" />
+  </defs>
+  <g
+     transform="translate(150,-583.36218)"
+     id="layer2" />
+  <path
+     d="M 0,0 C 0,0 -9.9878432e-4,1.3198033 -8.2777846e-4,4.8615561 L 0,22.005921 c 0,0 99.79981,-0.002 100,-0.002 0,-11.805843 0,-13.5846634 0,-17.7167081 C 100.00001,1.5842282 100,0 100,0 z"
+     id="rect2819"
+     style="fill:url(#linearGradient3896);fill-opacity:1;stroke:none" />
+  <path
+     d="M 2.5016283,24 C 3.3057175,24 0,24 0,24 l -8.2777846e-4,-1.246595 c 0,0 99.80063777846,0.0044 100.00082777846,0.0044 0,0.24999 0,1.242195 0,1.242195 0,0 -3.00894,0 -2.204846,0 z"
+     id="path3888"
+     style="fill:#181e28;fill-opacity:1;stroke:none" />
+  <path
+     d="m 2.5028068,22.751345 c 0.804468,0 -2.5028068,0 -2.5028068,0 L -8.2816998e-4,21.998536 C -8.2816998e-4,21.998536 99.799714,22 100,22 c 0,0.150922 0,0.742453 0,0.742453 0,0 -2.963185,0.0089 -2.158713,0.0089 z"
+     id="path3869"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+</svg>
